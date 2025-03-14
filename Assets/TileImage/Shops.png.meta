@@ -1,0 +1,2151 @@
+fileFormatVersion: 2
+guid: 714aa9a7651e26c4fab006b4983bcf87
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shops_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 718
+        width: 424
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2036fa597d7b248419598b318cfa5d25
+      internalID: 592711376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_1
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1135
+        width: 227
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55070f15f3f136543a89b176da92bf90
+      internalID: 682582044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_2
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1135
+        width: 481
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107642f5f68dea54989617509109e7bf
+      internalID: -1534998578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_3
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1069
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e87fe35a1402124eb647bc188412725
+      internalID: 989045521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_4
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1045
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b96c978072a1548a3b529ad0fc956c
+      internalID: -434213066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_5
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1045
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04208a916cc008941894471fa0820f43
+      internalID: 801788809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_6
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1045
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb589a3f1c6f7c4c8a7ca1b7f7d80c0
+      internalID: -1574762645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_7
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1007
+        width: 481
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aee690cb4586d84a891937615c4b6a0
+      internalID: 456409443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 879
+        width: 290
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f669759ceb8643e4196bf3d62275644b
+      internalID: 462098922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_9
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 879
+        width: 290
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c414127f651d82f468e2b6e78b5bdca4
+      internalID: -1254857204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_10
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 879
+        width: 291
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4d4cc2bc1eeda43a9bc660fd5c050e
+      internalID: 811367647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_11
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 879
+        width: 291
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd608ffadef47a45b1ba2745478cfc7
+      internalID: -112073368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_12
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 879
+        width: 196
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389e32b054c22f346bda194cab3527c8
+      internalID: 781592678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_13
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 879
+        width: 194
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d4e78dcbd45744b0ae853700d25b2
+      internalID: 1753352677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 718
+        width: 290
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506caa7101e7fbe4db7dd184a302330a
+      internalID: -27939814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_15
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 718
+        width: 290
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d83baccb227dc40a06380ca6d8496d
+      internalID: -1818923623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_16
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 751
+        width: 291
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2c9808e252aff4d89012aa9f3228e2
+      internalID: 542766184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_17
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 751
+        width: 291
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853b2fcfe8761c14aa51bf9aa2364c7c
+      internalID: 159034350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_18
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 785
+        width: 155
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d55813d9d10f241959f4e2edface0c
+      internalID: 1605987495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_19
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 761
+        width: 118
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb2457629d1ec9449eab9e48544e68d
+      internalID: 478949406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_20
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 751
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb84f0680591534691e3171d0cd66fe
+      internalID: 1071266288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_21
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 751
+        width: 194
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ce1ce3b2c37f42808a5d1a97ae5eb
+      internalID: -315840334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_22
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 611
+        width: 156
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de952ebdc61b9ab498f361a1972ca106
+      internalID: -1879678479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_23
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 623
+        width: 291
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e161a0f5627874188e8b2b92d044fa
+      internalID: 890855830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_24
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 718
+        width: 186
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870d5d9c0416f8847858b30f34305bb2
+      internalID: -898656720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_25
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 623
+        width: 227
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ba80ff5b5ecc4b8a56c00633c52e9
+      internalID: -1777727793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_26
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 623
+        width: 227
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1359b0b909bff4d459b19ca84f74148f
+      internalID: 1175937816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 590
+        width: 290
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f1fbfb809ee8040af17be3f12657a2
+      internalID: 2004363356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 590
+        width: 290
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1aae913e214324a9283430377350c8
+      internalID: 745755864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_29
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 590
+        width: 175
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89869e300b11a4944b21450a5132b2e7
+      internalID: 1411660345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_30
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 598
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae3535e20e7ed8469cdb663ee015a02
+      internalID: 1279661510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_31
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 611
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab68ac372dc16b43b667c9c4b43ec1d
+      internalID: -276915255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_32
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 625
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6ecc40df7accc44b6ec5670676e59b
+      internalID: 2094691176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_33
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 633
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb5a46ebf311c04b8e422f39ab2e8c2
+      internalID: -2017500784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_34
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 626
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6798018b48b60b4f8272eadac95914a
+      internalID: 974924625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 505
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142930e0aea871b42aa4095ac039b71c
+      internalID: -847015543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_36
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 505
+        width: 122
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf796b1b52cf1446821f7bb0f2e5716
+      internalID: 170495802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 469
+        width: 34
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a66fc2357f5914e83c814528b9792b
+      internalID: 1568438400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_38
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 465
+        width: 150
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d58e500ea6964d8fb6f407dc60896
+      internalID: -1029463840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_39
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 469
+        width: 34
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7fc78bb4bf7ab4e97df34d9888bed9
+      internalID: -1764500916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_40
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 462
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb6bfae5f2586743ba146d7713b6c1b
+      internalID: -671022400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_41
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 398
+        width: 167
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589865c3890e0ef47ac9b7caa59359f0
+      internalID: -849806624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_42
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 462
+        width: 291
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9115388e02b5796498ce1f574a33e524
+      internalID: 53427244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_43
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 462
+        width: 291
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6563e59a8a8554383905008ad1a7f0
+      internalID: 1811247403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_44
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 526
+        width: 148
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e47700dafa92b4e902184aa995ad48
+      internalID: 859297080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_45
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 529
+        width: 163
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b3e8a923c77f141b7318384e05083b
+      internalID: 714465694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 413
+        width: 125
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d582caf9e6e146a0fdac1af87bf8b
+      internalID: 1296060796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 398
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f761f7cadf15a6b4aa61b7d2602d5953
+      internalID: 568479594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_48
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 407
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110592e0fcf06b4b876aa8672ce21fb
+      internalID: 1455834735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 403
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff80ac889f43c459fbd45d604cde6a
+      internalID: 597851363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_50
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 403
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e883d1ed7d64543ba6164fcbe9738f
+      internalID: 69577636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_51
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 407
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b1217bfd7bef64eaaf2b0ef7b234ff
+      internalID: 1398109723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_52
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 185
+        width: 196
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070c8b2d9221f62489d6a309e2be4a52
+      internalID: 186324119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_53
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 416
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fccc3a73ebfa3f41b8b6f16eff1395b
+      internalID: -457123626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 206
+        width: 207
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea291c170626c74abc8fddd1d3f8a48
+      internalID: 470347177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 303
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335f826cc6e62c94887e848e7188aa10
+      internalID: -1613388708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_56
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 175
+        width: 124
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ddeefcaeafd944a5aa1486d8fcd4a
+      internalID: -217189914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_57
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 175
+        width: 94
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85725366adf051a45a08a83c0530a6fa
+      internalID: 1089905347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_58
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 175
+        width: 94
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c01c1a924aca64a8d11f1ff30d1f59
+      internalID: -610253414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_59
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 270
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd83b38c46ac2014ab7bb94006f5c676
+      internalID: 217342663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_60
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 111
+        width: 212
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6619ec6bec7d3c4dbcfe0048a3f8ef2
+      internalID: -1595607168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_61
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 185
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c27c4a6b80416d41ba81471a65f731b
+      internalID: 483937113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_62
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 339
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1610c000bccf44d95884b866ecf7dd
+      internalID: 1612783233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 15
+        width: 194
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b9445202e06da45b4e7b1b7c46a354
+      internalID: 1677869813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_64
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 270
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94bd296adec1f948a86577bdbd06fe5
+      internalID: 587356425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_65
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 251
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c0014a80f17ee438790284a4920f44
+      internalID: -1461089247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_66
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 131
+        width: 194
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8122c157a26041d4baf782d53e747aa1
+      internalID: -1029607378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_67
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 243
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59efa1bb3e80df444b5a6c2d8f43e764
+      internalID: -1582762466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_68
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 151
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa937d1861608c468f65650693ce4a4
+      internalID: -150700442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_69
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 143
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a6bbbd24b2a1e46b25439a599c4934
+      internalID: -831154275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_70
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75897d355059adf4d81ad29570f0c9cb
+      internalID: 1435791960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_71
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e757b46a73a494282d355cbbc9eb5b
+      internalID: 681271431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_72
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66160754d70fd8c488609f4ae2c9d78c
+      internalID: 1245239965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_73
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 177
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bfe9a98e879ac4ca58898ee96140e3
+      internalID: 1450017405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_74
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 143
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f2b56658727a94487cf63fdf3c78d8
+      internalID: -1352481566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_75
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 175
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd6e4c72bf4b74ca33b7882ba96321
+      internalID: 1536635436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_76
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 111
+        width: 255
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378406fa6bce6a44199416983f4903c6
+      internalID: -990944321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_77
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 144
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8a2266aba0d4540a230c6b38d689ec
+      internalID: -1995287297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_78
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 143
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e4ef8937d2d5f4196b9aefa60da8ea
+      internalID: -839429232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_79
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 144
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f51d002d923b4b936c4839c8bffc1
+      internalID: -1983137190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_80
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 79
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7908468b1c7172d44bdfbc1c916713f5
+      internalID: 967466311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_81
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 361
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb46a3c753728240a59978fb0ae0ad1
+      internalID: 1600158037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669b82dce6830f4cb3b470518dd23ec
+      internalID: 1187741827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_83
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 111
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795846ae879dc114d8122379999d5b3c
+      internalID: 1355878763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_84
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 111
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a262f16615d5c442a257a1da2c33c1c
+      internalID: -2051520936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_85
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 15
+        width: 191
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a961ced8e1584d9402d2a03ffe21c
+      internalID: 1872395674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_86
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 79
+        width: 110
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1351c40034adaa04ea5ee30f0789d568
+      internalID: -1838976744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_87
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 47
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd450a918ea37e438afecf15f21f5c0
+      internalID: 1914174983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_88
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 47
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cac2275e1807a47920b4330fb959dc
+      internalID: -118178879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_89
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 47
+        width: 181
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be73e5e892cf75b40b14f79b43af3fd7
+      internalID: -1562122222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_90
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce063e8bf442cbb46abdd9876759bffd
+      internalID: -1638998645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shops_91
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c5b2ad97b4ab8419298a25a96e853f
+      internalID: 12384362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Shops_0: 592711376
+      Shops_1: 682582044
+      Shops_10: 811367647
+      Shops_11: -112073368
+      Shops_12: 781592678
+      Shops_13: 1753352677
+      Shops_14: -27939814
+      Shops_15: -1818923623
+      Shops_16: 542766184
+      Shops_17: 159034350
+      Shops_18: 1605987495
+      Shops_19: 478949406
+      Shops_2: -1534998578
+      Shops_20: 1071266288
+      Shops_21: -315840334
+      Shops_22: -1879678479
+      Shops_23: 890855830
+      Shops_24: -898656720
+      Shops_25: -1777727793
+      Shops_26: 1175937816
+      Shops_27: 2004363356
+      Shops_28: 745755864
+      Shops_29: 1411660345
+      Shops_3: 989045521
+      Shops_30: 1279661510
+      Shops_31: -276915255
+      Shops_32: 2094691176
+      Shops_33: -2017500784
+      Shops_34: 974924625
+      Shops_35: -847015543
+      Shops_36: 170495802
+      Shops_37: 1568438400
+      Shops_38: -1029463840
+      Shops_39: -1764500916
+      Shops_4: -434213066
+      Shops_40: -671022400
+      Shops_41: -849806624
+      Shops_42: 53427244
+      Shops_43: 1811247403
+      Shops_44: 859297080
+      Shops_45: 714465694
+      Shops_46: 1296060796
+      Shops_47: 568479594
+      Shops_48: 1455834735
+      Shops_49: 597851363
+      Shops_5: 801788809
+      Shops_50: 69577636
+      Shops_51: 1398109723
+      Shops_52: 186324119
+      Shops_53: -457123626
+      Shops_54: 470347177
+      Shops_55: -1613388708
+      Shops_56: -217189914
+      Shops_57: 1089905347
+      Shops_58: -610253414
+      Shops_59: 217342663
+      Shops_6: -1574762645
+      Shops_60: -1595607168
+      Shops_61: 483937113
+      Shops_62: 1612783233
+      Shops_63: 1677869813
+      Shops_64: 587356425
+      Shops_65: -1461089247
+      Shops_66: -1029607378
+      Shops_67: -1582762466
+      Shops_68: -150700442
+      Shops_69: -831154275
+      Shops_7: 456409443
+      Shops_70: 1435791960
+      Shops_71: 681271431
+      Shops_72: 1245239965
+      Shops_73: 1450017405
+      Shops_74: -1352481566
+      Shops_75: 1536635436
+      Shops_76: -990944321
+      Shops_77: -1995287297
+      Shops_78: -839429232
+      Shops_79: -1983137190
+      Shops_8: 462098922
+      Shops_80: 967466311
+      Shops_81: 1600158037
+      Shops_82: 1187741827
+      Shops_83: 1355878763
+      Shops_84: -2051520936
+      Shops_85: 1872395674
+      Shops_86: -1838976744
+      Shops_87: 1914174983
+      Shops_88: -118178879
+      Shops_89: -1562122222
+      Shops_9: -1254857204
+      Shops_90: -1638998645
+      Shops_91: 12384362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

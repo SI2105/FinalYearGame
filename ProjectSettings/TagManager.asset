@@ -38,6 +38,24 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Base
+    uniqueID: 1173405517
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer Kerbs
+    uniqueID: 2975720381
+    locked: 0
+  - name: Over
+    uniqueID: 595224631
+    locked: 0
+  - name: Decoration
+    uniqueID: 1198380093
+    locked: 0
+  - name: Objects
+    uniqueID: 578789895
+    locked: 0
+  - name: Trees
+    uniqueID: 862549587
     locked: 0
