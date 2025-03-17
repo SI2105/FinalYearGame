@@ -44,6 +44,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: AboveDefault
+    uniqueID: 3354278499
+    locked: 0
   - name: New Layer Kerbs
     uniqueID: 2975720381
     locked: 0
@@ -58,4 +61,7 @@ TagManager:
     locked: 0
   - name: Trees
     uniqueID: 862549587
+    locked: 0
+  - name: Overwater
+    uniqueID: 2727144543
     locked: 0
