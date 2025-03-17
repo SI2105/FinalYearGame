@@ -1,0 +1,2019 @@
+fileFormatVersion: 2
+guid: 0613ef181892aef47a25d94eb0c9c740
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CeilingWall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86353a7371e8604b985ac69760bebbf
+      internalID: -624634049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a45c8b8e6aa1ea41959d7bf6b70109a
+      internalID: -22037967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe60243374300e647ae24ae06fecc836
+      internalID: -1426902047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43939ec31c99302459762e770858b3e6
+      internalID: -1174731228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5808e9f4e3ffea44a9f8caf45667d02b
+      internalID: 468938416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47643f523b4d6444a9770e97a81cebc3
+      internalID: -1980248393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d0ff1f01081724496abedd29f0e284
+      internalID: -650930871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464ebca5003d2174697903fe99c6dd4d
+      internalID: -1530445069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1eafa2be340964494d011b78f18cf7
+      internalID: -615773828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b974861758893e44a41ef069a470a27
+      internalID: 2120084607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5252a12f212d66499c5fe4dd1661be1
+      internalID: -2067063732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81439310ab306e3479cce304d2afa420
+      internalID: -1484958460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845b6ad97cfa9174a9fd5df57de56103
+      internalID: 588861490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a77d61e957dc0f4f8bf28a85f7e7288
+      internalID: -1010035455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260be364fcfae0142be9f434b8c7e000
+      internalID: 2015544236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6fcb25136f41545816b971bbab804a
+      internalID: 575997099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85f31d125950814da17a06a285ba87a
+      internalID: -1662031310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ef7cd751f0a3e41913584bb669bacb
+      internalID: -1148489710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5711978b9a80f409e344cc6d6a22d3
+      internalID: 1520980854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c302c7c18a921254497561afc14659f7
+      internalID: 427450076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa7032de5d06f04fbfd3e8e5fc96411
+      internalID: -658995506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c9975cc9f273f428e2316bb22eb147
+      internalID: -1930579028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8c9ebbfa504241ad43fa1c71cd463
+      internalID: -65743157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984df89880f070e47a6c5926d290d106
+      internalID: 1419832395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7bc83b6d0791e41be282289ef67eaf
+      internalID: 351874226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57250aefd7e625e4db8f33d305b69647
+      internalID: -1182149251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41645a1f16d6f94fb87787c7af3458f
+      internalID: -1391231548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3be232d56bf1104da38c7c12085e235
+      internalID: 1861750613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ddda8b18193bf4aaf85461f9376871
+      internalID: 183469497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2900448f8026fdb4d90ff4bb9f5401c2
+      internalID: -61104318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad566c00c1dc49d4cb0954c2365330f7
+      internalID: 1701055457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1c663524b0d194f8fdb3234e9836f4
+      internalID: -783964864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90afdfe1b990602469609a60111e69d0
+      internalID: 1277490961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c8fb15e78a70e4c94c3e0de6af7d61
+      internalID: 916746373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea334f9c5ab5a5e44b4cf586f5ae3d1d
+      internalID: -627562664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8014caf55ec1b24eb81a084833c0b4e
+      internalID: 316964484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3a046cd0f3e6c448b8d807ecd22069
+      internalID: -1230851973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a93873f22c65fe4a877f2a24a4f0214
+      internalID: 180133620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_38
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c277c393d52314bac3e87723c889c7
+      internalID: 1249458286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14277a5e8cd70346aee3f675f10c455
+      internalID: 1974803238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_40
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa89bad37176b4bbf0050bf28c9b17
+      internalID: 1766313788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36654b45d6cbc34ab4df1fae17f5cc6
+      internalID: 57161626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_42
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9335bb7f819094286d65723fea8401
+      internalID: -1851294694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_43
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b1d4ae041c1964fa6da26fd558ef9a
+      internalID: -1910454415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_44
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ba4d9bb10888a49ab1d216c1ff280c
+      internalID: 1195275248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb61157946ca344db4016fafb3196ef
+      internalID: 1690252657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_46
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d7fba3874e1d409ae4bb934ebb161
+      internalID: -702595730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_47
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100977680fdb701458d9c4360108914b
+      internalID: 1319677628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_48
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a186d99637de4439571b860f197582
+      internalID: 1978767430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_49
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041e89752dd2a27478ec1754ebacf9da
+      internalID: 1534405175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd5864e91e35864ea9133ef475942ee
+      internalID: 899181004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a46c18ad309644a32c4128aff3568
+      internalID: 310479120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782eaf1a9f9803f4e9b07a68c5c27f84
+      internalID: 1346725896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70985fab0313f404b9eb0d1b8cf9a943
+      internalID: 831011244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc95bf233f8d0254fb0dcdd1039c3fee
+      internalID: 1814911161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0302a7a789b0074eb416100e4e9f994
+      internalID: 1246802211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8affaf9e3863e640ae8be91bf697017
+      internalID: -379340985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a3c447e4302ad4494a803db0c82dbe
+      internalID: -1102864667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877651b48e5783240bfbf9fc350cbcf3
+      internalID: 601576915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556da8dd8f5a8324d8c862169af1ab6a
+      internalID: 304760721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bdc5339588be5498a19189a051627b
+      internalID: -522123398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_61
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc045b21249a67c48bbcc3fb2392317b
+      internalID: -46425789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5617e1618af4ad749be408a88a1f19c3
+      internalID: 971204468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_63
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423423ceaac945a4cbc72e09602dffc9
+      internalID: 733588756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_64
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688b86db3db9f9e47a72fd5d668caa9b
+      internalID: 562621600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_65
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc6ba4b3091a004191cbd56191698cf
+      internalID: 2052949831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_66
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87af3ff256d96e54d8aeb842686a3989
+      internalID: -1584815934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_67
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942191bcfc80a154b9b4a905c3a746fc
+      internalID: 564790953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_68
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8055978ec604546b248cc0beaac724
+      internalID: -450840816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_69
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572d4deb32b14514d98de2bf6d372e4c
+      internalID: -1590511331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867ab2baba8fd7c41a331ccba85a6dd8
+      internalID: -1125926428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_71
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eef4351c3ddff947aea83c730653d60
+      internalID: -1278565553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_72
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d21ac2c97da7544ea38d474937020c8
+      internalID: -702550040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_73
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1131b815272ac8146ba151d3e1952a0c
+      internalID: 398450127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_74
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760511272e354441ac1d1c3d3431c28
+      internalID: -472069655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f649281d9278fb14ab109042b157ca2f
+      internalID: 1799520451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66915048b00e24b9f8986c2233ca44
+      internalID: 1577684566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c171f9f4e6080449d9ea9a41ab0792
+      internalID: 1149171681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca91c5a39b2a82a40bd5dcda69cd1e8f
+      internalID: 1664664747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6808f9e14992be40920afb938001071
+      internalID: -273416479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_80
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40544bafed76fe041bcf5168076f1d63
+      internalID: -2140124985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d324277fa677e94685d9257f69e7787
+      internalID: -1690184645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b385f5de8af55364d8f9c30b7439fdd8
+      internalID: 1493529065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a19ea237a7ffa4c97cb0b5c417b052
+      internalID: -1759044044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_84
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e470d4509afef4d9b8851861b450f8
+      internalID: -1527119181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingWall_85
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 28
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1f03947fe4c9945b65fdf320a2b830
+      internalID: -1315640696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CeilingWall_0: -624634049
+      CeilingWall_1: -22037967
+      CeilingWall_10: -2067063732
+      CeilingWall_11: -1484958460
+      CeilingWall_12: 588861490
+      CeilingWall_13: -1010035455
+      CeilingWall_14: 2015544236
+      CeilingWall_15: 575997099
+      CeilingWall_16: -1662031310
+      CeilingWall_17: -1148489710
+      CeilingWall_18: 1520980854
+      CeilingWall_19: 427450076
+      CeilingWall_2: -1426902047
+      CeilingWall_20: -658995506
+      CeilingWall_21: -1930579028
+      CeilingWall_22: -65743157
+      CeilingWall_23: 1419832395
+      CeilingWall_24: 351874226
+      CeilingWall_25: -1182149251
+      CeilingWall_26: -1391231548
+      CeilingWall_27: 1861750613
+      CeilingWall_28: 183469497
+      CeilingWall_29: -61104318
+      CeilingWall_3: -1174731228
+      CeilingWall_30: 1701055457
+      CeilingWall_31: -783964864
+      CeilingWall_32: 1277490961
+      CeilingWall_33: 916746373
+      CeilingWall_34: -627562664
+      CeilingWall_35: 316964484
+      CeilingWall_36: -1230851973
+      CeilingWall_37: 180133620
+      CeilingWall_38: 1249458286
+      CeilingWall_39: 1974803238
+      CeilingWall_4: 468938416
+      CeilingWall_40: 1766313788
+      CeilingWall_41: 57161626
+      CeilingWall_42: -1851294694
+      CeilingWall_43: -1910454415
+      CeilingWall_44: 1195275248
+      CeilingWall_45: 1690252657
+      CeilingWall_46: -702595730
+      CeilingWall_47: 1319677628
+      CeilingWall_48: 1978767430
+      CeilingWall_49: 1534405175
+      CeilingWall_5: -1980248393
+      CeilingWall_50: 899181004
+      CeilingWall_51: 310479120
+      CeilingWall_52: 1346725896
+      CeilingWall_53: 831011244
+      CeilingWall_54: 1814911161
+      CeilingWall_55: 1246802211
+      CeilingWall_56: -379340985
+      CeilingWall_57: -1102864667
+      CeilingWall_58: 601576915
+      CeilingWall_59: 304760721
+      CeilingWall_6: -650930871
+      CeilingWall_60: -522123398
+      CeilingWall_61: -46425789
+      CeilingWall_62: 971204468
+      CeilingWall_63: 733588756
+      CeilingWall_64: 562621600
+      CeilingWall_65: 2052949831
+      CeilingWall_66: -1584815934
+      CeilingWall_67: 564790953
+      CeilingWall_68: -450840816
+      CeilingWall_69: -1590511331
+      CeilingWall_7: -1530445069
+      CeilingWall_70: -1125926428
+      CeilingWall_71: -1278565553
+      CeilingWall_72: -702550040
+      CeilingWall_73: 398450127
+      CeilingWall_74: -472069655
+      CeilingWall_75: 1799520451
+      CeilingWall_76: 1577684566
+      CeilingWall_77: 1149171681
+      CeilingWall_78: 1664664747
+      CeilingWall_79: -273416479
+      CeilingWall_8: -615773828
+      CeilingWall_80: -2140124985
+      CeilingWall_81: -1690184645
+      CeilingWall_82: 1493529065
+      CeilingWall_83: -1759044044
+      CeilingWall_84: -1527119181
+      CeilingWall_85: -1315640696
+      CeilingWall_9: 2120084607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
