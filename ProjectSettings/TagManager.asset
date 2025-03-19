@@ -68,3 +68,6 @@ TagManager:
   - name: Overwater
     uniqueID: 2727144543
     locked: 0
+  - name: Character
+    uniqueID: 1323053755
+    locked: 0
